@@ -1,5 +1,41 @@
-.abouth1{
-    width: 50px;
-    height: 60px;
-    background-color: red;
+.about img {
+  background-size: cover;
+  background-attachment: fixed;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 81%;
+  height: 200px;
+  padding-top: 120px;
+  padding-right: 80px;
+  color: #fff;
+  text-align: justify;
+  border-bottom-left-radius: 190%;
+  border-bottom-right-radius: 140%;
+  transform: scale(1.5);
+
+  }
+  .headingh1 {
+    height: 10px;
+    width: 350px;
+    position: relative;
+    color: #fff;
+    padding-top: 90px;
+    margin-left: 500px;
+}
+
+  .parah3 {
+    height: 10px;
+    width: 550px;
+    margin-top: 200px;
+    margin-left: 30px;
+  }
+.back img {
+  width: 500px;
+  height: 420px;
+  padding-top: -60px;
+  border-radius: 50% 50% 50% 50%;
+  box-shadow: 0 4px 4px 4px #d5d5d5;
+  margin-left: 770px;
 }

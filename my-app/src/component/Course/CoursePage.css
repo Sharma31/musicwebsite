@@ -1,0 +1,16 @@
+.coursepagebg img {
+   height: auto;
+   width: 100%;
+   position: absolute;
+}
+
+.coursename {
+    height: 200px;
+    width: 300px;
+    position: relative;
+    color: #fff;
+}
+
+.coursename a {
+    color: #fff;
+}

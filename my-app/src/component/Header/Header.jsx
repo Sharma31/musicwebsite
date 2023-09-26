@@ -6,7 +6,8 @@ const Header = () => {
    
     return(
         <header>
-            
+           
+         
             <nav>
             <ul >
              <div className="navbar">
@@ -18,7 +19,9 @@ const Header = () => {
             </ul>
            
             </nav>
+           
         </header>
+
     )
 }
 export default Header;

@@ -1,0 +1,27 @@
+.content1 {
+    font-size: 20px;
+    background-color: #fff;
+    height: 113px;
+    width: 420px;
+    box-shadow: 0 4px 4px 4px #812323;
+    border-bottom-left-radius: 190%;
+    border-bottom-right-radius: 240%;
+    border-top-left-radius: 190%;
+    border-top-right-radius: 190%;
+    padding-left: 50px;
+    padding-top: 9px;
+
+}
+
+.description {
+    font-size: 20px;
+    background-color: rgb(231, 217, 217);
+    width: 200px;
+}
+
+.subheading {
+    font-size: 20px;
+    background-color: #fff;
+    width: 300px;
+    box-shadow: 0 4px 4px 4px #d5d5d5;
+}
